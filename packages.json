@@ -1,5 +1,9 @@
 [
   {
+    "package": "ggfourfold",
+    "url": "https://github.com/gklorfine/ggfourfold"
+  },
+  {
     "package": "vcdExtra",
     "url": "https://github.com/friendly/vcdExtra"
   },
